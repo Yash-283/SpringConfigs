@@ -1,0 +1,2 @@
+server.port=8081
+spring.data.mongodb.uri=mongodb://prod-db-server:27017/loan_db_prod
